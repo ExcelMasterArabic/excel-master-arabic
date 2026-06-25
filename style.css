@@ -45,3 +45,19 @@ footer{
     color:white;
     padding:15px;
 }
+nav{
+    background:#1b5e20;
+    padding:15px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+    font-weight:bold;
+}
+
+nav a:hover{
+    text-decoration:underline;
+}
